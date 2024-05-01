@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773386721810",
+    "project_id": "hrt-kozanis",
+    "storage_bucket": "hrt-kozanis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773386721810:android:e223d16e675fc69f4416cb",
+        "android_client_info": {
+          "package_name": "com.flyefta.hrt_kozanis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773386721810-2boui5bqcd9dducb3c511r4nbn7u05qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flyefta.hrt_kozanis",
+            "certificate_hash": "41a248c66118d05ad3ed097f824ba775a9f12a75"
+          }
+        },
+        {
+          "client_id": "773386721810-k9ovs1edkcj04r3ctfpo5higuvvdahv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flyefta.hrt_kozanis",
+            "certificate_hash": "3268d49ac19f4c3404bd5b7ebe9dbe5a3c901030"
+          }
+        },
+        {
+          "client_id": "773386721810-qqa8mh2mu1pl6jfca77815h1pcrdl3ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWg79-84_1ax5t44e7Mx0tJJDqCE4QNbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773386721810-qqa8mh2mu1pl6jfca77815h1pcrdl3ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
